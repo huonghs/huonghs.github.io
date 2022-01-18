@@ -25,3 +25,11 @@
 [![](https://img.shields.io/badge/Jypyter-Open_Notebook-EE4C2C?logo=Jupyter)](https://github.com/huonghs/Citbike_Oct_Data_in_JerseyCity/blob/main/Citibike.ipynb)
 
 ![image](https://user-images.githubusercontent.com/69947391/150017983-09bff5bf-fbd2-4c67-8612-e8f78d9fc0f3.png)
+
+### Web Scrapping: Word Frequency in Moby Dick, Or The Whale Novel
+
+[![](https://img.shields.io/badge/Jypyter-Open_Notebook-EE4C2C?logo=Jupyter)](https://github.com/huonghs/Citbike_Oct_Data_in_JerseyCity/blob/main/Citibike.ipynb)
+
+![image](https://user-images.githubusercontent.com/69947391/150019507-d491466d-9b6d-44a4-aa1e-31b891275b07.png)
+
+https://github.com/huonghs/DataCamp-WebScraping-WordFrequency-in-Novel/blob/main/WordFrequency-in-MobyDick.ipynb
