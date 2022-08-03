@@ -11,6 +11,7 @@ This problem can be formulated as a binary classification problem using deep lea
 The data here are users-log dataset, which was collected in April 2022, with 16 features, including ids, ad revenue, location data, IP address, site host, devices, browser types, operating systems, etc.
 
 <b> Model: </b> RNN
+
 <b> Modeling Process: </b> Data Collection -> Data Cleaning and Normalization -> RNN Deep Learning Modeling (Baseline Model, Class Weights, Oversampling).
 
 <center><img src="/images/UsersClassification.png"/></center>
@@ -27,9 +28,10 @@ The datasets provide charge and discharge information in terms of average time, 
 The best performing model is Random Forest with highest accuracy score of 67%. While PCA was utilized in an attempt to generate a better model, the performance was not as good as the original dataset.
 
 <b> Models: </b> Random Forest, Naive Bayes, Logistic Regression, SVM (Linear), Kernel SVM, Decision Tree, KNeighbors.
+
 <b> Modeling Process: </b> Data Cleaning -> Data Balancing -> Feature Engineering -> PCA -> Applying Classification Algorithms -> Tune Model.
 
-<center><img src="/images/pitneybowes-pic5.png"/></center>
+<center><img src="/images/pitneybowes-pic6.png"/></center>
 
 
 
