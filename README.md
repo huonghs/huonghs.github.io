@@ -12,7 +12,7 @@ The data here are users-log dataset, which was collected in April 2022, with 16 
 
 Modeling Process: Train Dataset -> Data Cleaning and Normalization -> RNN Deep Learning Model (Baseline Model, Class Weights, Oversampling) -> Select Best Performing Model (based on Accurary Score, ROC and AUPRC)
 
-<center><img src="/images/UsersClassification-three models.png"/></center>
+<center><img src="/images/UsersClassification.png"/></center>
 
 
 ### Pitney Bowes - Early Warning Signal for Pitney Bowes Meters Identifying Failed Meters to Reduce Down-time Risk!
