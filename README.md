@@ -10,14 +10,28 @@ This problem can be formulated as a binary classification problem using deep lea
 
 The data here are users-log dataset, which was collected in April 2022, with 16 features, including ids, ad revenue, location data, IP address, site host, devices, browser types, operating systems, etc.
 
-Modeling Process: Train Dataset -> Data Cleaning and Normalization -> RNN Deep Learning Model (Baseline Model, Class Weights, Oversampling) -> Select Best Performing Model (based on Accurary Score, ROC and AUPRC)
+<b> Model: </b> RNN
+<b> Modeling Process: </b> Data Collection -> Data Cleaning and Normalization -> RNN Deep Learning Modeling (Baseline Model, Class Weights, Oversampling).
 
 <center><img src="/images/UsersClassification.png"/></center>
 
 
-### Pitney Bowes - Early Warning Signal for Pitney Bowes Meters Identifying Failed Meters to Reduce Down-time Risk!
+### Pitney Bowes:Early Warning Signal for Pitney Bowes Meters Identifying Failed Meters to Reduce Down-time Risk.
 
-[![](https://img.shields.io/badge/Jypyter-Open_Notebook-EE4C2C?logo=Jupyter)](https://github.com/huonghs/PIMAIndiansDiabetesData-EDA-KNNModeling/blob/main/Diabetes-EDA%20and%20KNN%20Modeling.ipynb)
+[![](https://img.shields.io/badge/Jypyter-Open_Notebook-EE4C2C?logo=Jupyter)](https://github.com/huonghs/Early-Warning-Signal-for-Pitney-Bowes-Meters/blob/main/Final_Report.ipynb)[![Presentation](https://github.com/huonghs/Early-Warning-Signal-for-Pitney-Bowes-Meters/blob/main/1-page%20summary%20-%20v5.pdf)
+
+Pitney Bowes is one of the leading solution providers in Postage Meters, which allows businesses to simplify their shipping and mailing process. The goal of this data mining challenge is to predict which meters will fail within the next 7 days in order to reduce down-time risks of meters deployed at Pitney Bowes’ customers to avoid any sort of disruption. 
+
+The datasets provide charge and discharge information in terms of average time, cycle, rate, volve; total time off, number of restart times, max voltage … Lag data from 1 to 12 for some average time and rate are also provided. 
+
+The best performing model is Random Forest with highest accuracy score of 67%. While PCA was utilized in an attempt to generate a better model, the performance was not as good as the original dataset.
+
+<b> Models: </b> Random Forest, Naive Bayes, Logistic Regression, SVM (Linear), Kernel SVM, Decision Tree, KNeighbors.
+<b> Modeling Process: </b> Data Cleaning -> Data Balancing -> Feature Engineering -> PCA -> Applying Classification Algorithms -> Tune Model.
+
+<center><img src="/images/pitneybowes-pic5.png"/></center>
+
+
 
 ![image](https://user-images.githubusercontent.com/69947391/150016262-517b6d65-b7f4-406d-abb4-b1dda50560b0.png)
 
