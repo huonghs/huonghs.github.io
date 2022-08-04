@@ -10,7 +10,7 @@ The data here are users-log dataset, which was collected in April 2022, with 16 
 <b> Model: </b> RNN <br /> 
 <b> Modeling Process: </b> Data Collection -> Data Cleaning and Normalization -> RNN Deep Learning Modeling (Baseline Model, Class Weights, Oversampling).
 
-<center><img src="/images/users-classification.gif"/></center>
+<center><img src="/images/users-classification (2).gif"/></center>
 
 
 ### Pitney Bowes: Early Warning Signal for Pitney Bowes Meters Identifying Failed Meters to Reduce Down-time Risk.
