@@ -22,7 +22,7 @@ The best performing model is Random Forest with highest accuracy score of 67%. W
 <b> Models: </b> Random Forest, Naive Bayes, Logistic Regression, SVM (Linear), Kernel SVM, Decision Tree, KNeighbors.<br />
 <b> Modeling Process: </b> Data Cleaning -> Data Balancing -> Feature Engineering -> PCA -> Applying Classification Algorithms -> Model Tuning.<br />
 
-<center><img src="/images/lstm.gif"/></center>
+<center><img src="/images/Pitneybowes-animated.gif"/></center>
 
 
 ### Click Fraud in Digital Advertising: Detecting The Invalid Ad Traffic using Machine Learning
