@@ -31,11 +31,23 @@ The best performing model is Random Forest with highest accuracy score of 67%. W
 
 <b> Modeling Process: </b> Data Cleaning -> Data Balancing -> Feature Engineering -> PCA -> Applying Classification Algorithms -> Tune Model.
 
-<center><img src="/images/pitneybowes-pic6.png"/></center>
+<center><img src="/images/pitneybowes-pic7.png"/></center>
+
+### IMDb Movie Reviews: Sentiment Analysis + Text Classification with LSTM - Pytorch and BERT
+
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1CdSIU5Pn8ojJGegx501UcQNykBy7WbkO#scrollTo=bcSGpPdppzat)
+
+IMDB dataset having 50K movie reviews for natural language processing or Text analytics.
+This is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. We provide a set of 25,000 highly polar movie reviews for training and 25,000 for testing. So, predict the number of positive and negative reviews using either classification or deep learning algorithms.
+For more dataset information, please go through the following link,
+
+<b> Model: </b> RNN
+
+<b> Modeling Process: </b> Data Collection -> Data Cleaning and Normalization -> RNN Deep Learning Modeling (Baseline Model, Class Weights, Oversampling).
+
+<center><img src="/images/imdb-pic3.png"/></center>
 
 
-
-![image](https://user-images.githubusercontent.com/69947391/150016262-517b6d65-b7f4-406d-abb4-b1dda50560b0.png)
 
 ### Ames Housing Prices Dataset - EDA and Advanced Regression (WIP)
 
