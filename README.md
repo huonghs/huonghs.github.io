@@ -22,7 +22,7 @@ The best performing model is Random Forest with highest accuracy score of 67%. W
 <b> Models: </b> Random Forest, Naive Bayes, Logistic Regression, SVM (Linear), Kernel SVM, Decision Tree, KNeighbors.<br />
 <b> Modeling Process: </b> Data Cleaning -> Data Balancing -> Feature Engineering -> PCA -> Applying Classification Algorithms -> Model Tuning.<br />
 
-<center><img src="/images/pitneybowes-pic7.png"/></center>
+<center><img src="/images/lstm.gif"/></center>
 
 
 ### Click Fraud in Digital Advertising: Detecting The Invalid Ad Traffic using Machine Learning
@@ -41,11 +41,9 @@ One of the most prominent problem in digital advertising industry in the last fe
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1CdSIU5Pn8ojJGegx501UcQNykBy7WbkO#scrollTo=bcSGpPdppzat)
 
 Sentiment analysis is a natural language processing technique used to determine whether data is positive, negative or neutral. Sentiment analysis allows
-businesses to identify customer sentiment toward products, brands or services in online conversations and feedback. Thus, it is often performed on textual data to help businesses monitor brand and product sentiment in customer feedback, and understand customer needs.
-This IMDB movie reviews dataset has 50K movie reviews with binary labels: postive or negative. The main motive behind this project was to construct a sentiment analysis model that will help understand the sentiment behinds the movie reviews. In this project, I performed data cleaning, EDA and predictive modeling using deep learning algorithms such as BERT and LSTM to achieve this goal.
-By evaluating the models, BERT gives the highest accuracy score of 86%.
-<b> Model: </b> LSTM, BERT
-<b> Modeling Process: </b> Data Cleaning -> Tokenization -> Padding -> Building Baseline Model -> Model Tuning.
+businesses to identify customer sentiment toward products, brands or services in online conversations and feedback. Thus, it is often performed on textual data to help businesses monitor brand and product sentiment in customer feedback, and understand customer needs. This IMDB movie reviews dataset has 50K movie reviews with binary labels: postive or negative. <b>The main motive behind this project was to construct a sentiment analysis model that will help understand the sentiment behinds the movie reviews.</b> In this project, I performed data cleaning, EDA and predictive modeling using deep learning algorithms such as BERT and LSTM to achieve this goal. By evaluating the models, BERT gives the highest accuracy score of 86%.<br />
+<b> Model: </b> LSTM, BERT<br />
+<b> Modeling Process: </b> Data Cleaning -> Tokenization -> Padding -> Building Baseline Model -> Model Tuning.<br />
 
 <center><img src="/images/Imdb-pic3.png"/></center>
 
