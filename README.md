@@ -22,7 +22,7 @@ The best performing model is Random Forest with highest accuracy score of 67%. W
 <b> Models: </b> Random Forest, Naive Bayes, Logistic Regression, SVM (Linear), Kernel SVM, Decision Tree, KNeighbors.<br />
 <b> Modeling Process: </b> Data Cleaning -> Data Balancing -> Feature Engineering -> PCA -> Applying Classification Algorithms -> Model Tuning.<br />
 
-<center><img src="/images/Pitneybowes-animated.gif"/></center>
+<center><img src="/images/Pitneybowes-animated.gif"/></center><br /> 
 
 
 ### Click Fraud in Digital Advertising: Detecting The Invalid Ad Traffic using Machine Learning
@@ -33,7 +33,7 @@ One of the most prominent problem in digital advertising industry in the last fe
 <b> Models: </b> LightGBM, XGBoost<br />
 <b> Modeling Process: </b> Data Cleaning -> Feature Engineering -> Baseline Model -> Model Tuning for Imbalanced Data.<br />
 
-<center><img src="/images/clickfraud-pic5.png"/></center>
+<center><img src="/images/clickfraud-pic5.png"/></center><br />
 
 
 ### IMDb Movie Reviews: Sentiment Analysis + Text Classification with LSTM - Pytorch and BERT
@@ -45,24 +45,15 @@ businesses to identify customer sentiment toward products, brands or services in
 <b> Model: </b> LSTM, BERT<br />
 <b> Modeling Process: </b> Data Cleaning -> Tokenization -> Padding -> Building Baseline Model -> Model Tuning.<br />
 
-<center><img src="/images/Imdb-pic3.png"/></center>
+<center><img src="/images/Imdb-pic3.png"/></center><br />
+
+### Diabetes Prediction with KNN Algorithm
+
+[![](https://img.shields.io/badge/Jypyter-Open_Notebook-EE4C2C?logo=Jupyter)](https://github.com/huonghs/PIMAIndiansDiabetesData-EDA-KNNModeling/blob/main/Diabetes-EDA%20and%20KNN%20Modeling.ipynb) 
+
+The purpose of this notebook is to predict the oneset of diabetes, classifying whether or not a patient is diabetic, on the basis of certain diagnostic measures in the dataset. I use KNN classification algorithm which will help make a prediction of a class of a target variable based on a defined number of nearest neighbors.<br />
+<b> Models: </b> KNN<br />
+
+<center><img src="/images/knn-pic4 (1).png"/></center>
 
 
-
-### Cardio Good Fitness Case Study - Data Analysis and Visualization
-
-[![](https://img.shields.io/badge/Jypyter-Open_Notebook-EE4C2C?logo=Jupyter)](https://github.com/huonghs/CardioFitnessDataAnalysis/blob/main/CardioGoodFitness.ipynb)
-
-![image](https://user-images.githubusercontent.com/69947391/150016707-21eb1641-169b-45e3-b9b8-5381c794e70c.png)
-
-### Jersey City - Ctibike Rideas Data in Oct 2021 - Data Analysis and Visualization
-
-[![](https://img.shields.io/badge/Jypyter-Open_Notebook-EE4C2C?logo=Jupyter)](https://github.com/huonghs/Citbike_Oct_Data_in_JerseyCity/blob/main/Citibike.ipynb)
-
-![image](https://user-images.githubusercontent.com/69947391/150017983-09bff5bf-fbd2-4c67-8612-e8f78d9fc0f3.png)
-
-### Web Scrapping: Word Frequency in Moby Dick, Or The Whale Novel
-
-[![](https://img.shields.io/badge/Jypyter-Open_Notebook-EE4C2C?logo=Jupyter)](https://github.com/huonghs/DataCamp-WebScraping-WordFrequency-in-Novel/blob/main/WordFrequency-in-MobyDick.ipynb)
-
-![image](https://user-images.githubusercontent.com/69947391/150020666-ce91bfe1-cadd-4111-92be-142cb5cc867d.png)
