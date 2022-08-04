@@ -1,16 +1,16 @@
 # Portfolio
 
 
-### Profit/Non-Profitable Users Classification: Is storing these IDs on cloud worth the company's money?
+### Profitable/Non-Profitable Users Classification: Is storing this customers info on cloud worth the company's money?
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1wQYXufCnR6DIdIRk7SyKkHd08eclTFY_#scrollTo=tT2zh4o3_WJj)
 
-The cost of enterprise cloud storage can vary greatly dependent on particular use cases. Accessing data, capacity stored, retrieval frequency and network bandwidth all add to the cost. The company will pay extra cost for extra user IDs the company is storing for future purpose. The question of whether that user ID is profitable, aka is worth storing should come into consideration to drive a cost-efficiency strategy for the business. <b>This problem can be formulated as a binary classification problem using deep learning to predict whether the user IDs are profitable or not, under the benchmark whether the system records users visit in the 2-week window.</b> <br /> 
+The cost of enterprise cloud storage can vary greatly dependent on particular use cases. Accessing data, capacity stored, retrieval frequency and network bandwidth all add to the cost. The company will pay extra cost for extra customer info the company is storing for future purpose. The question of whether that user ID is profitable, aka is worth storing should come into consideration to drive a cost-efficiency strategy for the business. <b>This problem can be formulated as a binary classification problem using deep learning to predict whether the user IDs are profitable or not, under the benchmark whether the system records users visit in the 2-week window.</b> <br /> 
 The data here are users-log dataset, which was collected in April 2022, with 16 features, including ids, ad revenue, location data, IP address, site host, devices, browser types, operating systems, etc. <br /> 
 <b> Model: </b> RNN <br /> 
 <b> Modeling Process: </b> Data Collection -> Data Cleaning and Normalization -> RNN Deep Learning Modeling (Baseline Model, Class Weights, Oversampling).
 
-<center><img src="/images/UsersClassification.png"/></center>
+<center><img src="/images/users-classification.gif"/></center>
 
 
 ### Pitney Bowes: Early Warning Signal for Pitney Bowes Meters Identifying Failed Meters to Reduce Down-time Risk.
@@ -22,7 +22,7 @@ The best performing model is Random Forest with highest accuracy score of 67%. W
 <b> Models: </b> Random Forest, Naive Bayes, Logistic Regression, SVM (Linear), Kernel SVM, Decision Tree, KNeighbors.<br />
 <b> Modeling Process: </b> Data Cleaning -> Data Balancing -> Feature Engineering -> PCA -> Applying Classification Algorithms -> Model Tuning.<br />
 
-<center><img src="/images/Pitneybowes-animated.gif"/></center><br /> 
+<center><img src="/images/pitneybowes-gif2.gif"/></center><br /> 
 
 
 ### Click Fraud in Digital Advertising: Detecting The Invalid Ad Traffic using Machine Learning
