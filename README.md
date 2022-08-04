@@ -36,11 +36,12 @@ The best performing model is Random Forest with highest accuracy score of 67%. W
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1CdSIU5Pn8ojJGegx501UcQNykBy7WbkO#scrollTo=bcSGpPdppzat)
 
-Sentiment analysis is a natural language processing technique used to determine whether data is positive, negative or neutral. Sentiment analysis is often performed on textual data to help businesses monitor brand and product sentiment in customer feedback, and understand customer needs.
+Sentiment analysis is a natural language processing technique used to determine whether data is positive, negative or neutral. Sentiment analysis allows
+businesses to identify customer sentiment toward products, brands or services in online conversations and feedback. Thus, it is often performed on textual data to help businesses monitor brand and product sentiment in customer feedback, and understand customer needs.
 
-This IMDB movie reviews dataset has 50K movie reviews for binary sentiment classification. In this project, I use BERT and LSTM to predict the number of positive and negative reviews.
+This IMDB movie reviews dataset has 50K movie reviews with binary labels: postive or negative. The main motive behind this project was to construct a sentiment analysis model that will help understand the sentiment behinds the movie reviews. In this project, I performed data cleaning, EDA and predictive modeling using deep learning algorithms such as BERT and LSTM to achieve this goal.
 
-After tuning the model, BERT shows a higher accuracy score of 86%.
+By evaluating the models, BERT gives the highest accuracy score of 86%.
 
 <b> Model: </b> LSTM, BERT
 
@@ -48,13 +49,17 @@ After tuning the model, BERT shows a higher accuracy score of 86%.
 
 <center><img src="/images/Imdb-pic3.png"/></center>
 
+### Click Fraud in Digital Advertising: Detecting The Invalid Ad Traffic using Machine Learning
 
+[![](https://img.shields.io/badge/Jypyter-Open_Notebook-EE4C2C?logo=Jupyter)](https://github.com/huonghs/adclickfraud/blob/main/Ad_Click_Fraud_Project%20(1).ipynb) 
+One of the most prominent problem in digital advertising industry in the last few decades is to minimize ad fraud and to avoid wasting ad spend on invalid and low-quality, bot traffic. A solution for a detecting system, which can proactively predict and prevent ad fraud is a much-needed support for any business, publisher or advertiser. 
 
-### Ames Housing Prices Dataset - EDA and Advanced Regression (WIP)
+The goal of this project is to investigate users' click behavior, identify features importance and build predictive models that can help advertisers in detecting click fraud from their campaign traffic. The data here is the mobile click-log dataset from TalkingData (the China’s largest independent big data service platform, covers over 70% of active mobile devices nationwide). This project highlights the importance of exploratory data analysis, feature engineering and the use of appropriate algorithms (LightGBM, XGBoost) to deal with imbalanced data.
 
-[![](https://img.shields.io/badge/Jypyter-Open_Notebook-EE4C2C?logo=Jupyter)](https://github.com/huonghs/KaggleHousingPriceEDA/blob/main/Kaggle-HousingPrices.ipynb)
+<b> Models: </b> LightGBM, XGBoost
 
-![image](https://user-images.githubusercontent.com/69947391/150015685-e6c47bb9-e9f2-4512-842a-4e524124964d.png)
+<b> Modeling Process: </b> Data Cleaning -> Feature Engineering -> Baseline Model -> Model Tuning for Imbalanced Data.
+<center><img src="/images/clickfraud-pic5.png"/></center>
 
 ### Cardio Good Fitness Case Study - Data Analysis and Visualization
 
