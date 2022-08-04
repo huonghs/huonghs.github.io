@@ -13,7 +13,7 @@ The data here are users-log dataset, which was collected in April 2022, with 16 
 <center><img src="/images/UsersClassification.png"/></center>
 
 
-### Pitney Bowes:Early Warning Signal for Pitney Bowes Meters Identifying Failed Meters to Reduce Down-time Risk.
+### Pitney Bowes: Early Warning Signal for Pitney Bowes Meters Identifying Failed Meters to Reduce Down-time Risk.
 
 [![](https://img.shields.io/badge/Jypyter-Open_Notebook-EE4C2C?logo=Jupyter)](https://github.com/huonghs/Early-Warning-Signal-for-Pitney-Bowes-Meters/blob/main/Final_Report.ipynb) [![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://github.com/huonghs/Early-Warning-Signal-for-Pitney-Bowes-Meters/blob/main/1-page%20summary%20-%20v5.pdf)
 
