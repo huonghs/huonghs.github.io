@@ -51,7 +51,7 @@ businesses to identify customer sentiment toward products, brands or services in
 
 [![](https://img.shields.io/badge/Jypyter-Open_Notebook-EE4C2C?logo=Jupyter)](https://github.com/huonghs/PIMAIndiansDiabetesData-EDA-KNNModeling/blob/main/Diabetes-EDA%20and%20KNN%20Modeling.ipynb) 
 
-The purpose of this notebook is to predict the oneset of diabetes, classifying whether or not a patient is diabetic, on the basis of certain diagnostic measures in the dataset. I use KNN classification algorithm which will help make a prediction of a class of a target variable based on a defined number of nearest neighbors.<br />
+The purpose of this notebook is to predict the oneset of diabetes, classifying whether or not a patient is diabetic, on the basis of certain diagnostic measures in the dataset. I use KNN classification algorithm which will help make a prediction of a class of a target variable based on a defined number of nearest neighbors. The final model is k=11 with the accuracy score of 76%.<br />
 <b> Models: </b> KNN<br />
 
 <center><img src="/images/knn-pic4 (1).png"/></center>
