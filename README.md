@@ -22,7 +22,7 @@ The best performing model is Random Forest with highest accuracy score of 67%. W
 <b> Model: </b> Random Forest, Naive Bayes, Logistic Regression, SVM (Linear), Kernel SVM, Decision Tree, KNeighbors.<br />
 <b> Modeling Process: </b> Data Cleaning -> Data Balancing -> Feature Engineering -> PCA -> Applying Classification Algorithms -> Model Tuning.<br />
 
-<center><img src="/images/pitneybowes-gif2.gif"/></center><br /> 
+<center><img src="/images/pitneybowes-gif2.gif"/></center>
 
 
 ### Click Fraud in Digital Advertising: Detecting The Invalid Ad Traffic using Machine Learning
@@ -33,7 +33,7 @@ One of the most prominent problem in digital advertising industry in the last fe
 <b> Model: </b> LightGBM, XGBoost<br />
 <b> Modeling Process: </b> Data Cleaning -> Feature Engineering -> Baseline Model -> Model Tuning for Imbalanced Data.<br />
 
-<center><img src="/images/clickfraud-pic5.png"/></center><br />
+<center><img src="/images/clickfraud-pic5.png"/></center>
 
 
 ### IMDb Movie Reviews: Sentiment Analysis + Text Classification with LSTM - Pytorch and BERT
@@ -45,7 +45,7 @@ businesses to identify customer sentiment toward products, brands or services in
 <b> Model: </b> LSTM, BERT<br />
 <b> Modeling Process: </b> Data Cleaning -> Tokenization -> Padding -> Building Baseline Model -> Model Tuning.<br />
 
-<center><img src="/images/Imdb-pic3.png"/></center><br />
+<center><img src="/images/Imdb-pic3.png"/></center><
 
 ### Diabetes Prediction with k-Nearest Neighbor (KNN) Algorithm
 
@@ -54,7 +54,7 @@ businesses to identify customer sentiment toward products, brands or services in
 The purpose of this notebook is to predict the oneset of diabetes, classifying whether or not a patient is diabetic, on the basis of certain diagnostic measures in the dataset. I use KNN classification algorithm which will help make a prediction of a class of a target variable based on a defined number of nearest neighbors. The final model is k=11 with the accuracy score of 76%.<br />
 <b> Model: </b> k-Nearest Neighbor (KNN)<br />
 
-<center><img src="/images/knn-pic5.png"/></center><br />
+<center><img src="/images/knn-pic5.png"/></center>
 
 
 ### UCI Heart Disease Data: Multivariate Statistical Analysis 
