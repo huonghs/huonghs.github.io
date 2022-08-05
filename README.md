@@ -32,7 +32,7 @@ One of the most prominent problem in digital advertising industry in the last fe
 <b> Model: </b> LightGBM, XGBoost<br />
 <b> Modeling Process: </b> Data Cleaning -> Feature Engineering -> Baseline Model -> Model Tuning for Imbalanced Data.<br />
 
-<center><img src="/images/clickfraud-pic5.png"/></center>
+<center><img src="/images/clickfraud-pic5.png"/></center><br />
 
 
 ### IMDb Movie Reviews: Sentiment Analysis + Text Classification with LSTM - Pytorch and BERT
@@ -44,7 +44,7 @@ businesses to identify customer sentiment toward products, brands or services in
 <b> Model: </b> LSTM, BERT<br />
 <b> Modeling Process: </b> Data Cleaning -> Tokenization -> Padding -> Building Baseline Model -> Model Tuning.<br />
 
-<center><img src="/images/Imdb-pic3.png"/></center>
+<center><img src="/images/Imdb-pic3.png"/></center><br />
 
 ### Diabetes Prediction with k-Nearest Neighbor (KNN) Algorithm
 
@@ -52,7 +52,6 @@ businesses to identify customer sentiment toward products, brands or services in
 
 The purpose of this notebook is to predict the oneset of diabetes, classifying whether or not a patient is diabetic, on the basis of certain diagnostic measures in the dataset. I use KNN classification algorithm which will help make a prediction of a class of a target variable based on a defined number of nearest neighbors. The final model is k=11 with the accuracy score of 76%.<br />
 <b> Model: </b> k-Nearest Neighbor (KNN)<br />
-
 <center><img src="/images/knn-pic5.png"/></center>
 
 
@@ -65,7 +64,6 @@ Multivariate dataset provides and involves a variety of separate mathematical or
 <b>- Multivariate Analysis of Variance:</b> Examined if there is a significant difference in heart health indicators between three data sources: Cleveland, Hungary and Switzerland.<br />
 <b>- Discriminat and Classification Analysis:</b> Focused on finding linear combinations of variables that best separate the three groups of multivariate observations (Cleveland, Hungary, and Switzerland).<br />
 <b>- Principal Component Analysis:</b> Focused on explaining the variance-covariance structure of a set of variables through a few linear combinations of these variables<br />
-
 <center><img src="/images/uci-heart-disease-pic2.png"/></center>
 
 ### Regression Analysis on Seoul Bike Sharing Demand
@@ -73,7 +71,6 @@ Multivariate dataset provides and involves a variety of separate mathematical or
 
 This report focuses on exploring and analyzing the Seoul Bike Sharing dataset from the Machine Learning Repository at UCI. The dataset contains the count of public bikes rented at each hour, with other weather and holiday information to help support the analysis. We have chosen Bike Count (which is the number of bikes rented) as our response variable since our goal is to understand the demand and build linear models to predict the bike counts using a set of potential predictor variable. We have tested multiple regression models by introducing both numerical and categorical variables (such as tempertaure, functioning_day, hour, solar radiation) and conducted F-Test to understand their interaction term as predictor variables. Lastly, Our last model is going to be built with the AIC Criterion and “Backwards Elimination” procedure to automatically obtain the best fit model. We started with 12 predictor variables, and after completing Backwards Elimination, we find that the best fit model includes the 7 following variables: Solar Radiation, Rainfall, Season, Dew Point Temperature, Humidity,Functioning Day, and Hour. <br />
 <b>The AIC value is 6,162.43. Our adjusted 𝑅2 value improved from Model 1 to Model 3, increasing from .4332 to .5439.</b><br />
-
 <center><img src="/images/RegressionModel.png"/></center><br /> 
 
 
