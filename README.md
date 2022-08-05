@@ -9,7 +9,6 @@ The cost of enterprise cloud storage can vary greatly dependent on particular us
 The data here are users-log dataset, which was collected in April 2022, with 16 features, including ids, ad revenue, location data, IP address, site host, devices, browser types, operating systems, etc. <br /> 
 <b> Model: </b> RNN <br /> 
 <b> Modeling Process: </b> Data Collection -> Data Cleaning and Normalization -> RNN Deep Learning Modeling (Baseline Model, Class Weights, Oversampling).
-
 <center><img src="/images/users-classification (2).gif"/></center>
 
 
