@@ -19,7 +19,7 @@ The data here are users-log dataset, which was collected in April 2022, with 16 
 
 Pitney Bowes is one of the leading solution providers in Postage Meters, which allows businesses to simplify their shipping and mailing process. <b>The goal of this data mining challenge is to predict which meters will fail within the next 7 days in order to reduce down-time risks of meters deployed at Pitney Bowes’ customers to avoid any sort of disruption.</b> The datasets provide charge and discharge information in terms of average time, cycle, rate, volve; total time off, number of restart times, max voltage … Lag data from 1 to 12 for some average time and rate are also provided.<br /> 
 The best performing model is Random Forest with highest accuracy score of 67%. While PCA was utilized in an attempt to generate a better model, the performance was not as good as the original dataset.<br /> 
-<b> Models: </b> Random Forest, Naive Bayes, Logistic Regression, SVM (Linear), Kernel SVM, Decision Tree, KNeighbors.<br />
+<b> Model: </b> Random Forest, Naive Bayes, Logistic Regression, SVM (Linear), Kernel SVM, Decision Tree, KNeighbors.<br />
 <b> Modeling Process: </b> Data Cleaning -> Data Balancing -> Feature Engineering -> PCA -> Applying Classification Algorithms -> Model Tuning.<br />
 
 <center><img src="/images/pitneybowes-gif2.gif"/></center><br /> 
@@ -30,7 +30,7 @@ The best performing model is Random Forest with highest accuracy score of 67%. W
 [![](https://img.shields.io/badge/Jypyter-Open_Notebook-EE4C2C?logo=Jupyter)](https://github.com/huonghs/adclickfraud/blob/main/Ad_Click_Fraud_Project%20(1).ipynb) 
 
 One of the most prominent problem in digital advertising industry in the last few decades is to minimize ad fraud and to avoid wasting ad spend on invalid and low-quality, bot traffic. A solution for a detecting system, which can proactively predict and prevent ad fraud is a much-needed support for any business, publisher or advertiser. <b>The goal of this project is to investigate users' click behavior, identify features importance and build predictive models that can help advertisers in detecting click fraud from their campaign traffic.</b> The data here is the mobile click-log dataset from TalkingData (the China’s largest independent big data service platform, covers over 70% of active mobile devices nationwide). This project highlights the importance of exploratory data analysis, feature engineering and the use of appropriate algorithms (LightGBM, XGBoost) to deal with imbalanced data.<br />
-<b> Models: </b> LightGBM, XGBoost<br />
+<b> Model: </b> LightGBM, XGBoost<br />
 <b> Modeling Process: </b> Data Cleaning -> Feature Engineering -> Baseline Model -> Model Tuning for Imbalanced Data.<br />
 
 <center><img src="/images/clickfraud-pic5.png"/></center><br />
@@ -47,13 +47,17 @@ businesses to identify customer sentiment toward products, brands or services in
 
 <center><img src="/images/Imdb-pic3.png"/></center><br />
 
-### Diabetes Prediction with KNN Algorithm
+### Diabetes Prediction with k-Nearest Neighbor (KNN) Algorithm
 
 [![](https://img.shields.io/badge/Jypyter-Open_Notebook-EE4C2C?logo=Jupyter)](https://github.com/huonghs/PIMAIndiansDiabetesData-EDA-KNNModeling/blob/main/Diabetes-EDA%20and%20KNN%20Modeling.ipynb) 
 
 The purpose of this notebook is to predict the oneset of diabetes, classifying whether or not a patient is diabetic, on the basis of certain diagnostic measures in the dataset. I use KNN classification algorithm which will help make a prediction of a class of a target variable based on a defined number of nearest neighbors. The final model is k=11 with the accuracy score of 76%.<br />
-<b> Models: </b> KNN<br />
+<b> Model: </b> k-Nearest Neighbor (KNN)<br />
 
-<center><img src="/images/knn-pic4 (1).png"/></center>
+<center><img src="/images/knn-pic5.png"/></center>
+
+
+
+
 
 
