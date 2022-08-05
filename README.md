@@ -45,7 +45,7 @@ businesses to identify customer sentiment toward products, brands or services in
 <b> Model: </b> LSTM, BERT<br />
 <b> Modeling Process: </b> Data Cleaning -> Tokenization -> Padding -> Building Baseline Model -> Model Tuning.<br />
 
-<center><img src="/images/Imdb-pic3.png"/></center><
+<center><img src="/images/Imdb-pic3.png"/></center>
 
 ### Diabetes Prediction with k-Nearest Neighbor (KNN) Algorithm
 
@@ -67,7 +67,7 @@ Multivariate dataset provides and involves a variety of separate mathematical or
 <b>- Discriminat and Classification Analysis:</b> Focused on finding linear combinations of variables that best separate the three groups of multivariate observations (Cleveland, Hungary, and Switzerland).<br />
 <b>- Principal Component Analysis:</b> Focused on explaining the variance-covariance structure of a set of variables through a few linear combinations of these variables<br />
 
-<center><img src="/images/uci-heart-disease-pic2.png"/></center><br /> 
+<center><img src="/images/uci-heart-disease-pic2.png"/></center>
 
 ### Regression Analysis on Seoul Bike Sharing Demand
 [![R Markdown](https://img.shields.io/badge/R_-Open_RMarkdown-lightskyblue?logo=R)](https://github.com/huonghs/regression-seoul-bike-share/blob/main/9700_project_updated_v3%20(1).Rmd) [![Project Report](https://img.shields.io/badge/Project_Report-blueviolet?)](https://github.com/huonghs/regression-seoul-bike-share/blob/main/9700%20Group4%20final%20version.pdf)
