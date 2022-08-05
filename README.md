@@ -54,9 +54,20 @@ businesses to identify customer sentiment toward products, brands or services in
 The purpose of this notebook is to predict the oneset of diabetes, classifying whether or not a patient is diabetic, on the basis of certain diagnostic measures in the dataset. I use KNN classification algorithm which will help make a prediction of a class of a target variable based on a defined number of nearest neighbors. The final model is k=11 with the accuracy score of 76%.<br />
 <b> Model: </b> k-Nearest Neighbor (KNN)<br />
 
-<center><img src="/images/knn-pic5.png"/></center>
+<center><img src="/images/knn-pic5.png"/></center><br />
 
 
+### UCI Heart Disease Data: Multivariate Statistical Analysis 
+
+[![Project Report](https://img.shields.io/badge/Project_Report-blueviolet?)](https://github.com/huonghs/UCI-heart-disease-dataset/blob/main/UCI%20Heart%20Disease%20Data%20Set.pdf)
+
+Multivariate dataset provides and involves a variety of separate mathematical or statistical variables, multivariate numerical data analysis. This Heart Disease Data from UCI is composed of 14 attributes which are age, sex, chest pain type, resting blood pressure, serum cholesterol, fasting blood sugar,etc. We utilized multiple multivariate statistical methods to get a better understanding of this data. The major tasks we focused on this project include:<br />
+<b>- Multivariate Hypothsis Testing:</b> Developed testing on whether there is a significant difference between males and females in heart health indicators (regardless of locations)<br />
+<b>- Multivariate Analysis of Variance:</b> Examined if there is a significant difference in heart health indicators between three data sources: Cleveland, Hungary and Switzerland.<br />
+<b>- Discriminat and Classification Analysis:</b> Focused on finding linear combinations of variables that best separate the three groups of multivariate observations (Cleveland, Hungary, and Switzerland).<br />
+<b>- Principal Component Analysis:</b> Focused on explaining the variance-covariance structure of a set of variables through a few linear combinations of these variables<br />
+
+<center><img src="/images/uci-heart-disease.png"/></center><br /> 
 
 
 
