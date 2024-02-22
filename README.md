@@ -60,7 +60,7 @@ Heart failure is a chronic condition when the heart cannot pump blood and oxygen
 
 <b> Keywords: </b>  heart failure, survival analysis, Kaplan-Meier, Cox Proportional Hazard Model <br />
 
-<center><img src="/images/KMSurvivalCurve.png"/></center> 
+<center><img src="/images/KMSurvivalCurve.png"/></center> <center><img src="/images/CoxModel.png"/></center> 
 
 ### Binary Logistic Regression in Ascertaining Important Factors for Autistic Spectrum Disorder
 
