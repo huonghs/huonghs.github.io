@@ -52,7 +52,7 @@ The purpose of this notebook is to predict the oneset of diabetes, classifying w
 <b> Model: </b> k-Nearest Neighbor (KNN)<br />
 <center><img src="/images/knn-pic5.png"/></center>
 
-### Survival analysis on heart failure patient mortality,
+### Survival Analysis on Heart Failure Patient Mortality
 
 [![Project Report](https://img.shields.io/badge/Project_Report-blueviolet?)](https://github.com/huonghs/Survival_Analysis/blob/main/Survival%20Analysis.pdf)
 
@@ -60,7 +60,15 @@ Heart failure is a chronic condition when the heart cannot pump blood and oxygen
 
 <b> Keywords: </b>  heart failure, survival analysis, Kaplan-Meier, Cox Proportional Hazard Model <br />
 
-<center><img src="/images/CoxModel.png"/></center> <center><img src="/images/KMSurvivalCurve.png"/></center> 
+<center><img src="/images/KMSurvivalCurve.png"/></center> 
+
+### Binary Logistic Regression in Ascertaining Important Factors for Autistic Spectrum Disorder
+
+[![Project Report](https://img.shields.io/badge/Project_Report-blueviolet?)](https://github.com/huonghs/binary-logistic/blob/main/Project_final%20(1).pdf)
+
+Autistic Spectrum Disorder (ASD) is a disorder of neurodevelopment that negatively affects how people communicate, learn, behave, and socially interact. It is mostly influenced by a combination of genetic and environmental factors. Many studies have shown that early interventions might help improve these conditions. However, diagnosing ASD is a challenging and costly process that may take years. The screening procedure is the initial stage in diagnosing ASD, and the results of this phase will assist the doctor in determining whether individuals should seek further examinations. This phase has recently been shortened while being highly accurate, thanks to the assistance of intelligent technologies based on machine learning. In the scope of this project, we applied a logistic regression model to the Autism Spectrum Disorder Screening data set to assess the associations of various aspects to the recognition of autism. The application study indicated some interesting factors that affect ASD.
+
+<b> Keywords: </b>  Logistic Regression, autistic spectrum disorder, likelihood ratio test, Wald test <br />
 
 ### UCI Heart Disease Data: Multivariate Statistical Analysis 
 
