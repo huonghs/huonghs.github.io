@@ -52,6 +52,15 @@ The purpose of this notebook is to predict the oneset of diabetes, classifying w
 <b> Model: </b> k-Nearest Neighbor (KNN)<br />
 <center><img src="/images/knn-pic5.png"/></center>
 
+### Survival analysis on heart failure patient mortality,
+
+[![Project Report](https://img.shields.io/badge/Project_Report-blueviolet?)](https://github.com/huonghs/Survival_Analysis/blob/main/Survival%20Analysis.pdf)
+
+Heart failure is a chronic condition when the heart cannot pump blood and oxygen to support the patient’s body. This is the leading cause of death in America and the rest of the world. In this study, we focus on survival analysis on heart failure patient mortality, learning the impact of multiple attributes such as age, anemia, diabetes, creatinine phosphokinase, ejection fraction (%), high blood pressure, serum creatinine, serum sodium, sex, and smoking on the death events. The two main methods that were used in this study includes Kaplan-Meier estimator and the Cox Proportional Hazard Model.
+
+<b> Keywords: </b>  heart failure, survival analysis, Kaplan-Meier, Cox Proportional Hazard Model <br />
+
+<center><img src="/images/CoxModel.png"/></center> <center><img src="/images/KMSurvivalCurve.png"/></center> 
 
 ### UCI Heart Disease Data: Multivariate Statistical Analysis 
 
